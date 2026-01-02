@@ -19,42 +19,33 @@ export const techIconMap: Record<string, JSX.Element> = {
 
 const projects = [
   {
-    title: "DeFAI",
-    description: "A DeFi AI Agent platform enabling blockchain transactions via natural language prompts",
-    thumbnail: "/project4.png",
+    title: "Paytm Wallet End to End",
+    description: " A secure, end-to-end financial backend to managing user authentication and balance updates",
+    thumbnail: "/project3.png",
     techStack: ["react", "node", "express"],
     gradient: "#51fbfb, rgb(13, 1, 60)",
-    github: "https://github.com/Ayushdas1904/Defai",
-    live: "https://defai-chi.vercel.app/",
+    github: "https://github.com/nilesh-gaikwad01",
+    live: "https://github.com/nilesh-gaikwad01",
   },
   {
-    title: "ADfluence",
-    description: "A creator brand collaboration website",
+    title: "Guess game",
+    description: "Guess game uses UI and Return Guess no",
     thumbnail: "/project1.png",
     techStack: ["ts", "next", "mongo"],
     gradient: "#ff7e5f, #0b1020",
-    github: "https://github.com/Ayushdas1904/Adfluence",
-    live: "https://adfluence-eosin.vercel.app/",
+    github: "https://github.com/nilesh-gaikwad01",
+    live: "https://github.com/nilesh-gaikwad01",
   },
   {
-    title: "FitBuddy",
-    description: "Your personal fitness companion",
+    title: "Color Changer",
+    description: "bg Color should be as you want",
     thumbnail: "/project2.png",
     techStack: ["ts", "node", "express", "mongo"],
     gradient: "#14f195, rgb(13, 1, 60)",
-    github: "https://github.com/Ayushdas1904/FitBuddy",
-    live: "https://fit-buddy-2004.vercel.app/",
+    github: "https://github.com/nilesh-gaikwad01",
+    live: "https://github.com/nilesh-gaikwad01",
   },
-  {
-    title: "Prolingo",
-    description: "A Duolingo-inspired app for programming languages",
-    thumbnail: "/project3.png",
-    techStack: ["ts", "node", "postgres"],
-    gradient: "#64e, rgb(13, 1, 60)",
-    github: "https://github.com/Ayushdas1904/Hack-5.0-ProLingo",
-    live: "https://prolingo-alpha.vercel.app/",
-  },
-  
+
 ];
 
 export function Projects() {
