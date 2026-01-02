@@ -1,15 +1,15 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Home, Briefcase, Wrench, Contact } from "lucide-react";
+import { Home, Code, Building2, FolderKanban, Mail} from "lucide-react";
 import { NavBar } from "@/components/ui/tubelight-navbar";
 
 const navItems = [
   { name: "Home", url: "#home", icon: Home },
-  { name: "Skills", url: "#skills", icon: Wrench },
-  { name: "Experience", url: "#experience", icon: Briefcase },
-  { name: "Projects", url: "#projects", icon: Briefcase },
-  { name: "Contact", url: "#contact", icon: Contact },
+  { name: "Skills", url: "#skills", icon: Code },
+  { name: "Experience", url: "#experience", icon: Building2  },
+  { name: "Projects", url: "#projects", icon: FolderKanban  },
+  { name: "Contact", url: "#contact", icon: Mail  },
 ];
 
 export function Navbar() {

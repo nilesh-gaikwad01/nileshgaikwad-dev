@@ -63,13 +63,6 @@ export function Home() {
                         <Socials />
                         <InteractiveHoverButton onClick={handleDownload} />
                     </div>
-
-
-                    {/* <p
-                        className={`mt-4 text-sm sm:text-lg dark:text-zinc-500 text-justify leading-relaxed ${jetbrainsMono.className}`}
-                    >
-                        B.Tech IT student at IIIT Una. MERN stack developer building practical projects and improving problem-solving with DSA in C++.
-                    </p> */}
                 </div>
 
                 {/* Image Section */}

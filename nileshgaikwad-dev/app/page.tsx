@@ -1,5 +1,5 @@
 'use client';
-import {Home} from "@/components/navPages/Home"
+import {Home} from "@/components/navPages/Home";
 import SkillsSection from "@/components/navPages/Skills";
 import Experience from "@/components/navPages/Experience";
 import { Projects } from '@/components/navPages/Projects';
