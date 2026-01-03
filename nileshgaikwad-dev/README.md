@@ -1,7 +1,7 @@
 # 🚀 Nilesh Gaikwad Developer Portfolio
 
 Welcome to my first ever portfolio website:  
-🌐 **Live Demo : [nileshgaikwad/pages.dev](https://nileshgaikwad/pages.dev)**  
+🌐 **Live Demo : [nileshgaikwad.pages.dev/](https://nileshgaikwad.pages.dev/)**  
 This site showcases who I am — developer, creator, and builder — in the simplest yet most impactful way.
 
 ![Portfolio Preview](./public/preview.png)
