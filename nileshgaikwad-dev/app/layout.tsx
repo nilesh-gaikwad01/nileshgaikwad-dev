@@ -15,6 +15,10 @@ import { Toaster } from "sonner";
 export const metadata: Metadata = {
   title: "Nilesh Gaikwad | Portfolio",
   description: "My First Portfolio",
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/apple-icon.png",
+  },
   
 };
 
