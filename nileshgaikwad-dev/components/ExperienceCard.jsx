@@ -2,7 +2,7 @@ import { Briefcase } from "lucide-react";
 
 export default function ExperienceCard({ experience }) {
   return (
-    <div className="relative pl-8 pb-10 border-l border-border">
+    <div className="bg-background border border-border rounded-xl p-6 shadow-sm hover:shadow-md transition">
       {/* Timeline Dot */}
       <span className="absolute left-[-9px] top-1 w-4 h-4 rounded-full bg-foreground"></span>
 
