@@ -5,7 +5,6 @@ export const experienceData = [
     location: "Pune, India",
     duration: "April 2024 – Sept 2024",
     points: [
-      "Collaborated in a team environment following Agile-style workflows and participated in task planning and code reviews.",
       "Gained hands-on experience in front-end development using HTML, CSS, JavaScript, and React.",
       "Developed responsive web pages with a strong focus on UI consistency and usability.",
       "Worked with JIRA for task tracking, sprint planning, and project coordination.",
@@ -18,10 +17,11 @@ export const experienceData = [
     location: "Pune, India",
     duration: "April 2021 – Oct 2023",
     points: [
-      "Developed PLC programs and Ladder Logic using RSLogix 500 for industrial automation workflows.",
-      "Designed and updated HMI/SCADA screens to improve operator usability and UI/UX efficiency.",
-      "Handled panel operations, system monitoring, maintenance, and fault resolution.",
-      "Troubleshot system failures and ensured minimal downtime in production environments.",
+      "Worked with enterprise Employee Portal for HR operations employee profiles, attendance, and leave management.",
+      "Helps to Integrate the application with ERP systems to synchronize employee and HR data.",
+      "Built role-based React.js dashboards for Employees, Managers, and HR teams.",
+      "Designed and implemented Node.js Express APIs with ERP integration and secure JWT-based authentication.",
+      "Collaborated in teamwork, followed Agile-like workflows, and participated in task planning and code reviews.",
     ],
   },
 ];
