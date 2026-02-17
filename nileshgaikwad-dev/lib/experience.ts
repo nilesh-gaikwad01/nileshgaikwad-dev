@@ -1,5 +1,17 @@
 export const experienceData = [
   {
+    role: "Backend Engineer",
+    company: "Illusion AI",
+    location: "Mumbai, India",
+    duration: "Oct 2025 – Jan 2026",
+    points: [
+      "Built and maintained an AI-based product platform using FastAPI, delivering secure and scalable REST APIs.",
+      "Modernized the system by migrating backend services to Node.js and integrating with a Next.js frontend.",
+      "Designed data models and optimized API performance using MongoDB and Mongoose.",
+      "Implemented CI/CD pipelines and cloud deployments using Docker, Jenkins, AWS, and Terraform following DevOps best practices.",
+    ],
+  },
+  {
     role: "Web Development Intern",
     company: "Mmeac IT Services",
     location: "Pune, India",
