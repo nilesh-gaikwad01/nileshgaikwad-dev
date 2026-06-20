@@ -17,7 +17,7 @@ export function Home() {
     const handleDownload = () => {
         const link = document.createElement('a');
         link.href = '/resume.pdf';
-        link.download = 'Nilesh_gaikwad_CV.pdf';
+        link.download = 'Nilesh_gaikwadCv.pdf';
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
