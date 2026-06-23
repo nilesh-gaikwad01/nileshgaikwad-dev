@@ -6,8 +6,8 @@ import Typewriter from 'typewriter-effect';
 import scrollDownAnimation from '@/public/scroll-down.json';
 import { jetbrainsMono } from '@/app/font';
 import Image from 'next/image';
-import NileshImg from "@/public/Nilesh2.png";
-import NileshImg2 from "@/public/Nilesh2.png"
+import NileshImg from "@/public/profile-img.png";
+import NileshImg2 from "@/public/profile-img.png"
 import { MapPin } from 'lucide-react';
 import Socials from '../Socials';
 import { InteractiveHoverButton } from '../ui/interactive-hover-button';
